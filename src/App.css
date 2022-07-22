@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+.character-list:hover{
+  opacity: .6;
+  transition: ease .3s;
+}
